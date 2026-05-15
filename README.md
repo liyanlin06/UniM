@@ -169,7 +169,7 @@ We will gradually add:
 - baseline inference or reproduction code
 - leaderboard or result submission details
 
-## Quick Links
+## 🌐 Quick Links
 
 - Project page: [https://any2any-mllm.github.io/unim/](https://any2any-mllm.github.io/unim/)
 - Paper: [https://arxiv.org/abs/2603.05075](https://arxiv.org/abs/2603.05075)
@@ -177,7 +177,7 @@ We will gradually add:
 - Code repository: [https://github.com/liyanlin06/UniM](https://github.com/liyanlin06/UniM)
 
 
-## 🚩Citation
+## 🚩 Citation
 
 If you find UniM useful in your research, please consider citing:
 
@@ -190,6 +190,6 @@ If you find UniM useful in your research, please consider citing:
 }
 ```
 
-## ✨Star History
+## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=liyanlin06/UniM&type=Date)](https://star-history.com/#liyanlin06/UniM&Date)
