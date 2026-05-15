@@ -36,7 +36,7 @@
 <a href="https://huggingface.co/datasets/yanlinli/UniM"><img src="https://img.shields.io/badge/Dataset-HuggingFace-facc15"></a>
 <a href="https://github.com/liyanlin06/UniM"><img src="https://img.shields.io/badge/Code-GitHub-111111"></a>
 <a href="https://github.com/liyanlin06/UniM"><img src="https://img.shields.io/github/stars/liyanlin06/UniM?label=Stars&color=4f46e5"></a>
-<a href="https://arxiv.org/abs/2603.05075"><img src="https://img.shields.io/badge/Venue-CVPR 2026-2563eb"></a>
+<a href="https://arxiv.org/abs/2603.05075"><img src="https://img.shields.io/badge/Venue-CVPR%2026-2563eb"></a>
 
 Official repository for **UniM**, the first **unified any-to-any interleaved multimodal benchmark** for evaluating both multimodal understanding and multimodal generation under a single paradigm.
 
