@@ -48,16 +48,15 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 
 ## 🎉 News 
 
-- [x] [2023.09.15] 🚀🚀 Release the code of NExT-GPT in version `7b_tiva_v0`.
-- [x] [2023.09.27] 🔨🧩 Added modality-blended batch sampler.
-- [x] [2023.10.01] 📢📢 Release the T2M instruction dataset.
-- [x] [2023.10.04] 👏👏 Release the checkpoint of NExT-GPT in version [7b_tiva_v0](https://huggingface.co/ChocoWu/nextgpt_7b_tiva_v0) .
-- [x] [2023.10.15] 🔨🚀 Update of NExT-GPT in version [7b_tiva_v0](https://huggingface.co/ChocoWu/nextgpt_7b_tiva_v0) .
-- [x] [2026.03.05] 👏👏 Release the UniM paper in Arxiv. Please refer to the link(https://arxiv.org/abs/2603.05075).
+% - [x] [2023.09.15] 🚀🚀 Release the code of NExT-GPT in version `7b_tiva_v0`.
+% - [x] [2023.09.27] 🔨🧩 Added modality-blended batch sampler.
+% - [x] [2023.10.01] 📢📢 Release the T2M instruction dataset.
+% - [x] [2023.10.04] 👏👏 Release the checkpoint of NExT-GPT in version [7b_tiva_v0](https://huggingface.co/ChocoWu/nextgpt_7b_tiva_v0).
+- [x] [2026.04.18] 🔨🔨 Release the UniM benchmark in Huggingface. Please refer to the [dataset](https://huggingface.co/datasets/yanlinli/UniM).
+- [x] [2026.03.05] 👏👏 Release the UniM paper in Arxiv. Please refer to the [paper](https://arxiv.org/abs/2603.05075).
 
 ## 👉 TODO 
-- [ ] Updating NExT-GPT in more types&sizes of LLMs.
-- [ ] Empowering NExT-GPT with more modalities of inputs&outputs.
+- [ ] Release the UniMA code.
 - [ ] ...
 
 ## Overview
