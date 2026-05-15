@@ -1,6 +1,6 @@
 <div align="center">
 
-# UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark
+# [CVPR 2026] UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark
 
 <p>
   <a href="https://liyanlin06.github.io/"><strong>Yanlin Li</strong></a><sup>1</sup>,
