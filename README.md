@@ -112,27 +112,41 @@ The evaluation suite includes the following core metrics:
 
 ---
 
-## Repository Layout
+## 🗂️ Repository Layout
 
-This repository is being organized around three main components:
+This repository is being organized as follows:
 
 ```text
 UniM/
-├── README.md
+├── qapairs_placeholder/
+│   ├── natural_science/
+│   │   ├── 1_math/
+│   │   │   ├── audio/
+│   │   │   ├── document/
+│   │   │   ├── image/
+│   │   │   └── video/
+│   │   └── ...
+│   ├── social_science/
+│   │   └── ...
+│   └── general_area/
+│       └── ...
+├── qapairs_caption/
+│   ├── natural_science/
+│   ├── social_science/
+│   └── general_area/
 ├── data/
-│   └── ...
+│   ├── natural_science/
+│   ├── social_science/
+│   └── general_area/
 ├── evaluation/
 │   ├── scripts/
 │   ├── metrics/
 │   ├── prompts/
 │   ├── examples/
 │   └── README.md
-├── models/
-│   └── ...
 ├── assets/
 │   └── ...
-└── docs/
-    └── ...
+└── README.md
 ```
 
 The public release will focus on:
@@ -141,34 +155,10 @@ The public release will focus on:
 - **Evaluation**: scripts, metrics, judge prompts, and reproducible scoring pipelines
 - **Method code**: reference code for our own baseline and related examples
 
-## Release Status
 
-The repository is currently being cleaned up for public release.
 
-- `data/`: prepared
-- `evaluation/`: under active cleanup and documentation
-- `method code`: will be released after repository finalization
 
-This means some detailed instructions are intentionally still marked as coming soon while we standardize the public-facing codebase.
-
-## Coming Soon
-
-We will gradually add:
-
-- environment setup instructions
-- evaluation dependencies
-- runnable evaluation commands
-- input and output format examples
-- baseline inference or reproduction code
-- leaderboard or result submission details
-
-## 🌐 Quick Links
-
-- Project page: [https://any2any-mllm.github.io/unim/](https://any2any-mllm.github.io/unim/)
-- Paper: [https://arxiv.org/abs/2603.05075](https://arxiv.org/abs/2603.05075)
-- Dataset: [https://huggingface.co/datasets/yanlinli/UniM](https://huggingface.co/datasets/yanlinli/UniM)
-- Code repository: [https://github.com/liyanlin06/UniM](https://github.com/liyanlin06/UniM)
-
+---
 
 ## 🚩 Citation
 
