@@ -160,9 +160,6 @@ We will gradually add:
 - Dataset: [https://huggingface.co/datasets/yanlinli/UniM](https://huggingface.co/datasets/yanlinli/UniM)
 - Code repository: [https://github.com/liyanlin06/UniM](https://github.com/liyanlin06/UniM)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=liyanlin06/UniM&type=Date)](https://star-history.com/#liyanlin06/UniM&Date)
 
 ## Citation
 
@@ -177,10 +174,6 @@ If you find UniM useful in your research, please consider citing:
 }
 ```
 
-## License
+## Star History
 
-License information will be added together with the full public release.
-
-## Acknowledgement
-
-This repository accompanies the UniM benchmark and its associated project page. More detailed documentation will be added as the evaluation and method code are finalized for open-source release.
+[![Star History Chart](https://api.star-history.com/svg?repos=liyanlin06/UniM&type=Date)](https://star-history.com/#liyanlin06/UniM&Date)
