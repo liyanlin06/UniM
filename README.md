@@ -42,9 +42,10 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 
 </div>
 
----
 
 ![UniM Teaser](https://github.com/any2any-mllm/unim/blob/main/static/assets/teaser.png)
+
+---
 
 ## 🎉 News 
 
@@ -85,7 +86,7 @@ Real-world multimodal systems need to understand **any interleaved multimodal in
 
 ---
 
-## Evaluation Suite
+## 📊 Evaluation Suite
 
 UniM evaluates models along three complementary dimensions:
 
@@ -103,7 +104,9 @@ The evaluation suite includes the following core metrics:
 - `LeS`: Lenient Structure Score
 - `ICS`: Interleaved Coherence Score
 
-![UniM Evaluation Suite](https://any2any-mllm.github.io/unim/static/assets/eval.png)
+<p align="center">
+  <img src="https://any2any-mllm.github.io/unim/static/assets/eval.png" alt="UniM Evaluation Suite" width="72%">
+</p>
 
 ## Repository Layout
 
