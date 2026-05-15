@@ -1,18 +1,18 @@
 <div align="center">
 
-## UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark
+# UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark
 
 <p>
   <a href="https://liyanlin06.github.io/"><strong>Yanlin Li</strong></a><sup>1</sup>,
   <a href="https://guominghui07.github.io/#home"><strong>Minghui Guo</strong></a><sup>1</sup>,
   <a href="https://openreview.net/profile?id=~Kaiwen_Zhang4"><strong>Kaiwen Zhang</strong></a><sup>1</sup>,
   <a href="https://openreview.net/profile?id=~Shize_Zhang2"><strong>Shize Zhang</strong></a><sup>1</sup>,
-  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=GV94KLUAAAAJ"><strong>Yiran Zhao</strong></a><sup>1</sup>,
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=GV94KLUAAAAJ"><strong>Yiran Zhao</strong></a><sup>1</sup><br>
   <a href="https://micky-li-hd.github.io/"><strong>Haodong Li</strong></a><sup>2</sup>,
   <a href="https://openreview.net/profile?id=~Congyue_Zhou1"><strong>Congyue Zhou</strong></a><sup>2</sup>,
   <a href="https://openreview.net/profile?id=~Weijie_Zheng3"><strong>Weijie Zheng</strong></a><sup>3</sup>,
   <a href="https://openreview.net/profile?id=~Yushen_Yan1"><strong>Yushen Yan</strong></a><sup>2</sup>,
-  <a href="https://sqwu.top/"><strong>Shengqiong Wu</strong></a><sup>1</sup>,
+  <a href="https://sqwu.top/"><strong>Shengqiong Wu</strong></a><sup>1</sup><br>
   <a href="https://jiwei0523.github.io/"><strong>Wei Ji</strong></a><sup>4</sup>,
   <a href="https://www.microsoft.com/en-us/research/people/lecu/"><strong>Lei Cui</strong></a><sup>5</sup>,
   <a href="https://www.microsoft.com/en-us/research/people/fuwei/"><strong>Furu Wei</strong></a><sup>5</sup>,
@@ -31,12 +31,12 @@
 
 <p><sup>*</sup>Corresponding author</p>
 
-[![Project Page](https://img.shields.io/badge/Project_Page-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://any2any-mllm.github.io/unim/)
-[![Paper](https://img.shields.io/badge/Paper-arXiv%202603.05075-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.05075)
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFCC4D?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/yanlinli/UniM)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/liyanlin06/UniM)
-[![Stars](https://img.shields.io/github/stars/liyanlin06/UniM?style=flat-square&logo=github&color=6e7781)](https://github.com/liyanlin06/UniM)
-[![Venue](https://img.shields.io/badge/Venue-CVPR%202026-2563EB?style=flat-square)](https://arxiv.org/abs/2603.05075)
+<a href="https://any2any-mllm.github.io/unim/"><img src="https://img.shields.io/badge/Project-Page-2ea44f"></a>
+<a href="https://arxiv.org/abs/2603.05075"><img src="https://img.shields.io/badge/arXiv-2603.05075-b31b1b"></a>
+<a href="https://huggingface.co/datasets/yanlinli/UniM"><img src="https://img.shields.io/badge/Dataset-HuggingFace-facc15"></a>
+<a href="https://github.com/liyanlin06/UniM"><img src="https://img.shields.io/badge/Code-GitHub-111111"></a>
+<a href="https://github.com/liyanlin06/UniM"><img src="https://img.shields.io/github/stars/liyanlin06/UniM?label=Stars&color=4f46e5"></a>
+<a href="https://arxiv.org/abs/2603.05075"><img src="https://img.shields.io/badge/CVPR-2026-2563eb"></a>
 
 Official repository for **UniM**, the first **unified any-to-any interleaved multimodal benchmark** for evaluating both multimodal understanding and multimodal generation under a single paradigm.
 
