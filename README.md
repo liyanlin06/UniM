@@ -44,7 +44,7 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 
 ---
 
-![UniM Teaser](https://any2any-mllm.github.io/unim/static/assets/teaser.png)
+![UniM Teaser](https://github.com/any2any-mllm/unim/blob/main/static/assets/teaser.png)
 
 ## Overview
 
