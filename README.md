@@ -106,7 +106,7 @@ The evaluation suite includes the following core metrics:
 - `ICS`: Interleaved Coherence Score
 
 <p align="center">
-  <img src="https://github.com/liyanlin06/UniM/static/eval.png" alt="UniM Evaluation Suite" width="80%">
+  <img src="https://github.com/liyanlin06/UniM/blob/main/static/eval.png" alt="UniM Evaluation Suite" width="80%">
 </p>
 
 
