@@ -43,7 +43,7 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 </div>
 
 
-![UniM Teaser](https://github.com/any2any-mllm/unim/blob/main/static/assets/teaser.png)
+![UniM Teaser](https://github.com/liyanlin06/UniM/blob/main/static/teaser.png)
 
 ---
 
@@ -106,7 +106,7 @@ The evaluation suite includes the following core metrics:
 - `ICS`: Interleaved Coherence Score
 
 <p align="center">
-  <img src="https://any2any-mllm.github.io/unim/static/assets/eval.png" alt="UniM Evaluation Suite" width="80%">
+  <img src="https://github.com/liyanlin06/UniM/static/eval.png" alt="UniM Evaluation Suite" width="80%">
 </p>
 
 
