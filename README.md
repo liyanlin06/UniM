@@ -7,11 +7,11 @@
   <a href="https://guominghui07.github.io/#home"><strong>Minghui Guo</strong></a><sup>1</sup>,
   <a href="https://openreview.net/profile?id=~Kaiwen_Zhang4"><strong>Kaiwen Zhang</strong></a><sup>1</sup>,
   <a href="https://openreview.net/profile?id=~Shize_Zhang2"><strong>Shize Zhang</strong></a><sup>1</sup>,
-  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=GV94KLUAAAAJ"><strong>Yiran Zhao</strong></a><sup>1</sup>,
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=GV94KLUAAAAJ"><strong>Yiran Zhao</strong></a><sup>1</sup>, \\ 
   <a href="https://micky-li-hd.github.io/"><strong>Haodong Li</strong></a><sup>2</sup>,
   <a href="https://openreview.net/profile?id=~Congyue_Zhou1"><strong>Congyue Zhou</strong></a><sup>2</sup>,
   <a href="https://openreview.net/profile?id=~Weijie_Zheng3"><strong>Weijie Zheng</strong></a><sup>3</sup>,
-  <a href="https://openreview.net/profile?id=~Yushen_Yan1"><strong>Yushen Yan</strong></a><sup>2</sup>,
+  <a href="https://openreview.net/profile?id=~Yushen_Yan1"><strong>Yushen Yan</strong></a><sup>2</sup>,\\
   <a href="https://sqwu.top/"><strong>Shengqiong Wu</strong></a><sup>1</sup>,
   <a href="https://jiwei0523.github.io/"><strong>Wei Ji</strong></a><sup>4</sup>,
   <a href="https://www.microsoft.com/en-us/research/people/lecu/"><strong>Lei Cui</strong></a><sup>5</sup>,
