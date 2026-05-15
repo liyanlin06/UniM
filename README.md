@@ -62,42 +62,28 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 - [ ] Release the UniMA code.
 - [ ] ...
 
-## Overview
 
-Real-world multimodal systems must handle **arbitrarily combined, interleaved multimodal inputs** and produce outputs in **any interleaved multimedia form**. UniM is designed to benchmark this setting in a unified way.
+---
 
-UniM contains:
+## 📌 Overview
 
-- **31K** high-quality instances
-- **30** diverse domains
-- **7** representative modalities: `text`, `image`, `audio`, `video`, `document`, `code`, and `3D`
+Real-world multimodal systems need to understand **any interleaved multimodal inputs** while generating outputs in **any interleaved multimodal form**. To benchmark this setting under a unified paradigm, our work centers on three main components:
 
-Beyond the dataset itself, UniM also provides:
+- **UniM Benchmark**: the first unified any-to-any interleaved multimodal benchmark, containing **31K** high-quality instances across **30** domains and **7** representative modalities: `text`, `image`, `audio`, `video`, `document`, `code`, and `3D`. Each instance may involve multiple intertwined understanding and generation requirements.
+- **UniM Evaluation Suite**: a dedicated evaluation framework that assesses model performance from three complementary perspectives: **Semantic Correctness & Generation Quality**, **Response Structure Integrity**, and **Interleaved Coherence**.
+- **UniMA**: an agentic baseline equipped with traceable reasoning for structured interleaved generation, introduced to establish strong initial results and highlight the challenges of unified any-to-any multimodal intelligence.
 
-- a unified **evaluation suite**
-- structured **prediction and scoring protocols**
-- an agentic baseline, **UniMA**
+### Highlights
 
-## Highlights
+- **Any-to-Any Interleaved Modalities**: UniM covers **7 modalities** and supports any-to-any interleaved combinations, faithfully simulating real-world multimodal scenarios.
+- **Universal and Diverse Capabilities**: UniM evaluates comprehensive and diverse MLLM capabilities, spanning both understanding and generation.
+- **Multi-domain Coverage**: UniM encompasses **30 real-world domains** across different fields.
+- **Multiple Tasks per Instance**: each instance may involve multiple task objectives, ranging from multimodal understanding to multimodal generation.
+- **Progressive Difficulty**: instances are organized into a **3-scale difficulty hierarchy**, supporting evaluation from simple to complex interleaved scenarios.
+- **Large Scale and High Quality**: UniM contains **31,026 instances**, constructed through a rigorous pipeline to ensure strong semantic validity and logical coherence.
 
-- **Unified any-to-any setting**: jointly studies multimodal understanding and generation instead of separating them into narrow sub-benchmarks.
-- **Rich interleaving**: supports arbitrarily interleaved combinations of modalities rather than simple text-image pairs.
-- **Broad modality coverage**: spans seven modalities, including less commonly supported ones such as `document`, `code`, and `3D`.
-- **Comprehensive evaluation**: measures semantic quality, structural correctness, and cross-modal coherence together.
 
-## Benchmark at a Glance
-
-| Aspect | Description |
-| --- | --- |
-| Benchmark name | `UniM` |
-| Paper | `UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark` |
-| Venue | `CVPR 2026` |
-| Scale | `31K` instances |
-| Domains | `30` |
-| Modalities | `7` |
-| Baseline | `UniMA` |
-| Project page | [any2any-mllm.github.io/unim](https://any2any-mllm.github.io/unim/) |
-| Dataset | [huggingface.co/datasets/yanlinli/UniM](https://huggingface.co/datasets/yanlinli/UniM) |
+---
 
 ## Evaluation Suite
 
