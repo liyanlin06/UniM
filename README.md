@@ -177,7 +177,7 @@ We will gradually add:
 - Code repository: [https://github.com/liyanlin06/UniM](https://github.com/liyanlin06/UniM)
 
 
-## Citation
+## 🚩Citation
 
 If you find UniM useful in your research, please consider citing:
 
@@ -190,6 +190,6 @@ If you find UniM useful in your research, please consider citing:
 }
 ```
 
-## Star History
+## ✨Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=liyanlin06/UniM&type=Date)](https://star-history.com/#liyanlin06/UniM&Date)
