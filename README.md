@@ -61,6 +61,7 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 
 ## 👉 TODO 
 
+- [ ] Release the evaluation scripts.
 - [ ] Release the UniMA code.
 - [ ] ...
 
