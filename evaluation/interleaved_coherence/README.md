@@ -23,7 +23,7 @@ Both scores are integers in the range **1-5**.
 
 We provide two environment installation methods.
 
-(1) We recommend using the provided setup script:
+### Option 1: Recommended setup script
 
 ```bash
 bash setup_ics_eval_env.sh
@@ -33,8 +33,6 @@ This script will:
 
 - create a conda environment `unim_ics`
 - install all dependencies listed in `ics_requirements.txt`
-
-You can also specify a custom environment name:
 
 ```bash
 bash setup_ics_eval_env.sh unim_ics
@@ -46,7 +44,9 @@ After installation, activate the environment:
 conda activate unim_ics
 ```
 
-(2) If you prefer not to use the script, you can install the same environment manually:
+### Option 2: Manual installation
+
+If you prefer not to use the script, you can install the same environment manually:
 
 ```bash
 conda create -n unim_ics python=3.10 pip
@@ -146,6 +146,7 @@ The output file is cleared at the start of each run.
 
 Each output record contains:
 
+- original sample metadata
 - `content`: placeholder-expanded text
 - `modal`: dense caption generated for each placeholder
 - `score.coherence`
