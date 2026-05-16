@@ -43,7 +43,7 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 </div>
 
 
-![UniM Teaser](https://github.com/liyanlin06/UniM/blob/main/static/teaser.png)
+![UniM Teaser](https://github.com/liyanlin06/UniM/blob/main/assets/teaser.png)
 
 ---
 
@@ -56,7 +56,7 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 - [x] [2023.10.04] 👏👏 Release the checkpoint of NExT-GPT in version [7b_tiva_v0](https://huggingface.co/ChocoWu/nextgpt_7b_tiva_v0).
 -->
 - [x] [2026.04.18] 🔨🔨 Release the UniM benchmark in Huggingface. Please refer to the [dataset](https://huggingface.co/datasets/yanlinli/UniM).
-- [x] [2026.04.14] 📢📢 UniM paper is accepted by VALSE 2026 as the poster presentation. Please refer to the [poster](https://github.com/liyanlin06/UniM/blob/main/static/VALSE2026_UniM_poster.png).
+- [x] [2026.04.14] 📢📢 UniM paper is accepted by VALSE 2026 as the poster presentation. Please refer to the [poster](https://github.com/liyanlin06/UniM/blob/main/assets/VALSE2026_UniM_poster.png).
 - [x] [2026.03.05] 👏👏 Release the UniM paper in Arxiv. Please refer to the [paper](https://arxiv.org/abs/2603.05075).
 
 ## 👉 TODO 
@@ -107,7 +107,7 @@ The evaluation suite includes the following core metrics:
 - `ICS`: Interleaved Coherence Score
 
 <p align="center">
-  <img src="https://github.com/liyanlin06/UniM/blob/main/static/eval.png" alt="UniM Evaluation Suite" width="80%">
+  <img src="https://github.com/liyanlin06/UniM/blob/main/assets/eval.png" alt="UniM Evaluation Suite" width="80%">
 </p>
 
 
