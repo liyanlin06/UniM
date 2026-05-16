@@ -1,0 +1,15 @@
+decord==0.6.0
+librosa==0.11.0
+numpy==2.2.6
+open3d==0.19.0
+openai==2.1.0
+opencv-python-headless==4.12.0.88
+pillow==11.3.0
+pyloudnorm==0.1.1
+pytesseract==0.3.13
+pyyaml==6.0.3
+requests==2.32.5
+scipy==1.15.3
+torch==2.8.0
+tqdm==4.67.1
+trimesh==4.7.4
