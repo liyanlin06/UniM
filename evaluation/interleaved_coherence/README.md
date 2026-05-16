@@ -146,7 +146,6 @@ The output file is cleared at the start of each run.
 
 Each output record contains:
 
-- original sample metadata
 - `content`: placeholder-expanded text
 - `modal`: dense caption generated for each placeholder
 - `score.coherence`
