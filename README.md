@@ -140,21 +140,23 @@ UniM/
 │   ├── social_science/
 │   └── general_area/
 ├── evaluation/
-│   ├── scripts/
-│   ├── metrics/
-│   ├── prompts/
-│   ├── examples/
-│   └── README.md
+│   ├── generate_quality/
+│   │   ├── README.md
+│   │   ├── gq_requirements.txt
+│   │   ├── setup_gq_eval_env.sh
+│   │   └── evaluate_gq.py
+│   ├── interleaved_coherence/
+│   │   ├── README.md
+│   │   ├── ics_requirements.txt
+│   │   ├── setup_ics_eval_env.sh
+│   │   ├── evaluate_ics.py
+│   │   └── x2text_gpt5.py
+│   └── ...
 ├── assets/
 │   └── ...
 └── README.md
 ```
 
-The public release will focus on:
-
-- **Data**: benchmark samples, metadata, and access instructions
-- **Evaluation**: scripts, metrics, judge prompts, and reproducible scoring pipelines
-- **Method code**: reference code for our own baseline and related examples
 
 
 
