@@ -100,12 +100,7 @@ UniM evaluates models along three complementary dimensions:
 3. **Interleaved Coherence**
    Evaluates whether different generated modalities form a coherent interleaved response in terms of logic, structure, tone, and style.
 
-The evaluation suite includes the following core metrics:
-
-- `SQCS`: Semantic-Quality Coupled Score
-- `StS`: Strict Structure Score
-- `LeS`: Lenient Structure Score
-- `ICS`: Interleaved Coherence Score
+For details, please refer to `/evaluation`. We provide detailed instructions and usages of the evaluation suite.
 
 <p align="center">
   <img src="https://github.com/liyanlin06/UniM/blob/main/assets/eval.png" alt="UniM Evaluation Suite" width="80%">
