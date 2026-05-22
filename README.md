@@ -136,6 +136,11 @@ UniM/
 │   ├── social_science/
 │   └── general_area/
 ├── evaluation/
+│   ├── semantic_correctness/
+│   │   ├── README.md
+│   │   ├── sc_requirements.txt
+│   │   ├── setup_sc_eval_env.sh
+│   │   └── evaluate_sc.py
 │   ├── generate_quality/
 │   │   ├── README.md
 │   │   ├── gq_requirements.txt
@@ -147,7 +152,10 @@ UniM/
 │   │   ├── setup_ics_eval_env.sh
 │   │   ├── evaluate_ics.py
 │   │   └── x2text_gpt5.py
-│   └── ...
+│   ├── response_structure_integrity/
+│   │   ├── README.md
+│   │   ├── evaluate_rsi.py
+│   │   └── evaluate_rsi.sh
 ├── assets/
 │   └── ...
 └── README.md
