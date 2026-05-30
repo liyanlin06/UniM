@@ -55,6 +55,7 @@ Official repository for **UniM**, the first **unified any-to-any interleaved mul
 - [x] [2023.10.01] 📢📢 Release the T2M instruction dataset.
 - [x] [2023.10.04] 👏👏 Release the checkpoint of NExT-GPT in version [7b_tiva_v0](https://huggingface.co/ChocoWu/nextgpt_7b_tiva_v0).
 -->
+- [x] [2026.05.30] 🧩🧩 Please refer to CVPR 2026 [poster](https://github.com/liyanlin06/UniM/blob/main/assets/cvpr2026_unim_poster).
 - [x] [2026.05.21] 📢📢 Release the UniM Evaluation Suite scripts. Please refer to detailed `README.md`.
 - [x] [2026.04.18] 🔨🔨 Release the UniM benchmark in Huggingface. Please refer to the [dataset](https://huggingface.co/datasets/yanlinli/UniM).
 - [x] [2026.04.14] 📢📢 UniM paper is accepted by VALSE 2026 as the poster presentation. Please refer to the [poster](https://github.com/liyanlin06/UniM/blob/main/assets/VALSE2026_UniM_poster.png).
