@@ -693,8 +693,8 @@ def send_message(
             holder["result"] = run_interleave_session(
                 blocks,
                 output_dir=str(run_dir),
-                planner_model=planner_model.strip() or "gpt-5",
-                writer_model=writer_model.strip() or "gpt-5-mini",
+                planner_model=planner_model.strip() or "gpt-5.6-sol",
+                writer_model=writer_model.strip() or "gpt-5.6-terra",
                 sora_model=sora_model.strip() or "sora-2",
                 default_video_seconds=int(video_seconds),
                 default_video_size=video_size.strip() or "1280x720",
@@ -889,8 +889,8 @@ def build_demo() -> gr.Blocks:
 
             with gr.Column(scale=3, elem_classes=["panel-card"]):
                 with gr.Accordion("Advanced Settings", open=False):
-                    planner_model = gr.Textbox(label="Understanding Model", value="gpt-5")
-                    writer_model = gr.Textbox(label="Generation Model", value="gpt-5-mini")
+                    planner_model = gr.Textbox(label="Understanding Model", value="gpt-5.6-sol")
+                    writer_model = gr.Textbox(label="Generation Model", value="gpt-5.6-terra")
                     sora_model = gr.Textbox(
                         label="Video Model (Videos API)",
                         value=os.getenv("SORA_MODEL", "sora-2"),
